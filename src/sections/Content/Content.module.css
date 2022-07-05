@@ -1,0 +1,50 @@
+.contentWrapper {
+    @apply px-40 py-5;
+}
+
+.contentFocus {}
+
+.contentFocusContent {
+    @apply text-left text-[82px] leading-none font-arial font-bold mt-10;
+}
+
+.contentAboutWrapper {
+    @apply grid grid-cols-3 mt-20;
+}
+
+.aboutWrapper {
+    @apply flex flex-col pr-10 col-span-2 pr-52;
+}
+
+.aboutProblem {
+    @apply mb-10 font-calibri font-medium text-xl;
+}
+
+.aboutHelp {
+    @apply font-inter text-xl pr-52 font-bold my-6;
+}
+
+.signUpWrapper {
+    @apply flex flex-col pr-52 items-start;
+}
+
+.signUpLabel {
+    @apply font-calibri text-sm;
+}
+
+.signUpField {
+    @apply outline-none bg-opacity-30 mb-2 text-sm py-1 px-2;
+}
+
+.signUpButton {
+    @apply px-4 py-1 rounded-3xl; 
+}
+
+.signUpButtonText {
+    @apply font-calibri text-xs;
+}
+
+.aboutGimmick {
+    @apply pr-10 text-opacity-60;
+}
+

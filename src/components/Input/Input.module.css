@@ -1,0 +1,11 @@
+.inputWrapper {
+    @apply flex flex-col mb-4;
+}
+
+.inputLabel {
+    @apply text-eco-white text-sm mb-1;
+}
+
+.inputField {
+    @apply outline-none text-sm p-2 rounded bg-eco-white;
+}

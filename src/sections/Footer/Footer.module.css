@@ -1,0 +1,60 @@
+.footerWrapper {
+    @apply px-28 py-5 border-t-2 mx-10 mt-5 flex flex-row justify-between items-start;
+}
+
+.sectionOne {
+    @apply mr-auto;
+}
+
+.sectionOneBadgeWrapper {
+    @apply  py-0.5 w-36 text-center mb-5 rounded;
+}
+
+.sectionOneBadge {
+    @apply flex flex-row items-center p-2 mx-0.5 rounded-b-xl;
+}
+
+.sectionOneBadgeIcon {
+    @apply h-7 w-auto mr-1;
+}
+
+.sectionOneBadgeText {
+    @apply font-actor text-xs text-left tracking-wider;
+}
+
+.sectionOneButton {
+    @apply text-center mx-auto;
+}
+
+.sectionOneButtonText {
+    @apply font-actor text-xs text-center;
+}
+
+.sectionOneTitle {
+    @apply font-calibri font-bold w-2/3 my-2 text-lg;
+}
+
+.sectionOneCopyWrapper {
+    @apply flex flex-row justify-start items-center;
+}
+
+.sectionOneCopy {
+    @apply text-xs font-calibri
+}
+
+.sectionOneIcon {
+    @apply ml-1 h-4;
+}
+
+.section {
+    @apply ml-16;
+}
+
+
+.sectionLink {
+    @apply text-opacity-60 text-sm;
+}
+
+.sectionTitle {
+    @apply font-bold text-sm;
+}

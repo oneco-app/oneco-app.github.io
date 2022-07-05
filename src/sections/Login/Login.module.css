@@ -1,0 +1,19 @@
+.sectionWrapper {
+    @apply px-40 py-5 flex flex-row items-center justify-between;
+}
+
+.sectionTitle {
+    @apply text-eco-white font-inter text-4xl font-bold mb-5;
+}
+
+.sectionSubTitle {
+    @apply text-eco-white font-inter text-lg font-bold mb-2;
+}
+
+.sectionInfo {
+    @apply text-eco-white font-inter text-sm mb-5;
+}
+
+.sectionLink {
+    @apply text-sm my-5 w-fit text-eco-white border-b border-b-transparent hover:border-b-eco-white duration-300 ease-in-out;
+}
