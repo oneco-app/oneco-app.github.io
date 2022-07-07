@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oneco-app/oneco.github.io/static/css/main.341467ba.css",
+    "main.js": "/oneco-app/oneco.github.io/static/js/main.a0e67387.js",
+    "static/js/787.f9683a41.chunk.js": "/oneco-app/oneco.github.io/static/js/787.f9683a41.chunk.js",
+    "index.html": "/oneco-app/oneco.github.io/index.html",
+    "main.341467ba.css.map": "/oneco-app/oneco.github.io/static/css/main.341467ba.css.map",
+    "main.a0e67387.js.map": "/oneco-app/oneco.github.io/static/js/main.a0e67387.js.map",
+    "787.f9683a41.chunk.js.map": "/oneco-app/oneco.github.io/static/js/787.f9683a41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.341467ba.css",
+    "static/js/main.a0e67387.js"
+  ]
+}
