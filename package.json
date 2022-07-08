@@ -5,7 +5,7 @@
   "homepage": "https://oneco-app.github.io/",
   "dependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build && rm -r build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
