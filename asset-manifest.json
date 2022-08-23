@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.b2f20e0f.css",
-    "main.js": "/static/js/main.66f7c973.js",
+    "main.js": "/static/js/main.d2b5fa84.js",
     "static/js/787.f9683a41.chunk.js": "/static/js/787.f9683a41.chunk.js",
     "static/media/Acumin-RPro.otf": "/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
     "index.html": "/index.html",
     "main.b2f20e0f.css.map": "/static/css/main.b2f20e0f.css.map",
-    "main.66f7c973.js.map": "/static/js/main.66f7c973.js.map",
+    "main.d2b5fa84.js.map": "/static/js/main.d2b5fa84.js.map",
     "787.f9683a41.chunk.js.map": "/static/js/787.f9683a41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f20e0f.css",
-    "static/js/main.66f7c973.js"
+    "static/js/main.d2b5fa84.js"
   ]
 }
